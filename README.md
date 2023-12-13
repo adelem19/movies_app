@@ -1,1 +1,1 @@
-# movies_app
+# django_movies
